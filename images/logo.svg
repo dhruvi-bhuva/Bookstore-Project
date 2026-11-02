@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" width="240" height="60">
+  <defs>
+    <linearGradient id="logo-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4f46e5"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <!-- Icon -->
+  <rect x="6" y="8" width="44" height="44" rx="12" fill="url(#logo-grad)"/>
+  <path d="M20 34c2-2 5-3 8-3s6 1 8 3V20c-2-2-5-3-8-3s-6 1-8 3v14zm8-14v11" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- Text -->
+  <text x="62" y="32" font-family="'Plus Jakarta Sans', 'Segoe UI', sans-serif" font-size="22" font-weight="800" fill="#0f172a">
+    Book<tspan fill="#4f46e5">Verse</tspan>
+  </text>
+  <text x="63" y="46" font-family="'Segoe UI', sans-serif" font-size="10" font-weight="600" fill="#64748b" letter-spacing="2">
+    ONLINE BOOKSTORE
+  </text>
+</svg>
